@@ -9,7 +9,7 @@ I combine problem-oriented thinking from business with deep foundational researc
 * AI Research Lead at [**Cogita AI**](https://cogita.ai/)
 * President  of [**314 Foundation**](https://314.foundation/)
 * Expanding my [**Semantic Pullbacks**](https://arxiv.org/abs/2507.22832) - serious alternatives to gradients for interpreting deep networks
-* Working on **General Pretrained Kernels** (GPK): a new approach to model pre-training for lifelong few-shot Continual Learning (i.e. the holy grail of AI)
+* Working on more effective and transparent information routing schemes for neural networks
 
 ### 🛠️ Background
 
