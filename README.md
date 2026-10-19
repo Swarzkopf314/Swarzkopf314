@@ -2,14 +2,14 @@
 
 I'm **Maciej Satkiewicz** - AI researcher, founder, consultant, full-stack developer, mathematician, poet, and freestyle skater.
 
-I combine problem-oriented thinking from business with deep foundational research. My current focus is on **transparent AI**, **explainability**, **learning theory**, **adversarial robustness**, and the path toward radically more efficient lifelong AI systems.
+I combine problem-oriented thinking from business with deep foundational research. My current focus is on the post-Transformer architectures and radically more effective information routing schemes in neural networks.
 
 ### 🔭 Currently
 
 * AI Research Lead at [**Cogita AI**](https://cogita.ai/)
 * President  of [**314 Foundation**](https://314.foundation/)
 * Expanding my [**Semantic Pullbacks**](https://arxiv.org/abs/2507.22832) - serious alternatives to gradients for interpreting deep networks
-* Working on more effective and transparent information routing schemes for neural networks
+* Working on novel information routing schemes in neural networks
 
 ### 🛠️ Background
 
